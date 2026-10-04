@@ -2,7 +2,7 @@
 
 **A responsive, multi-card image carousel built from scratch with vanilla JavaScript and CSS transforms.**
 
-**[Source](https://github.com/Shalabyelectronics/Carousal_PLayGround)**
+**[Source](https://github.com/Shalabyelectronics/carousel-playground)**
 
 ## About
 
@@ -38,18 +38,18 @@ This is a static front-end project and requires no package installations or buil
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shalabyelectronics/Carousal_PLayGround.git
+   git clone https://github.com/Shalabyelectronics/carousel-playground.git
    ```
 2. Navigate into the project folder:
    ```bash
-   cd Carousal_PLayGround
+   cd carousel-playground
    ```
 3. Open `index.html` in any modern web browser or run it with VS Code Live Server.
 
 ## Project Structure
 
 ```text
-Carousal_PLayGround/
+carousel-playground/
 ├── css/
 │   ├── all.min.css
 │   ├── bootstrap.min.css
